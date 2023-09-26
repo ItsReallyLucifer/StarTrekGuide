@@ -11,7 +11,7 @@ This web application allows you to explore information about various alien speci
 # Getting Started
 To use this application, follow these steps:
 
-Clone this repository to your local machine: git clone https://github.com/your-username/star-trek-alien-lookup.git
+Clone this repository to your local machine: git clone https://github.com/ItsReallyLucifer/StarTrekGuide.git
 
 Open the index.html file in your web browser.
 
